@@ -6,6 +6,10 @@ Copy the .env.example file and rename it as .env, changing the host or port para
 
 In the project directory, you can run:
 
+### `npm install`
+
+run npm build to install all dependencies
+
 ### `npm run dev`
 
 Run the application together with nodemon
